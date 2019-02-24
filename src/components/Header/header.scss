@@ -1,0 +1,65 @@
+@import '../_conf';
+
+header {
+    margin-bottom: 1.45rem;
+    background: lighten(black, 10%);
+    text-align: right;
+
+    .socialIcons {
+        margin: 0 -13px;
+
+        a {
+
+            svg {
+                transition: .4s ease-out;
+            }
+
+            &:hover {
+                svg .social-svg-icon {
+                    fill: $color1!important;
+                }
+            }
+        }
+    }
+
+    p {
+        color: darken(white, 5%);
+        margin: 0;
+
+        a {
+            color: $color1;
+        }
+    }
+
+    > div:first-child {
+        min-height: 20vh;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+
+    > div:last-child {
+        display: flex;
+        justify-content: space-between;
+
+        > a {
+            color: white;
+            background: $color1;
+            padding: 5px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            transition: .4s ease-out;
+
+            &:hover {
+                background: darken($color1, 10%);
+            }
+        }
+    }
+
+    .gatsby-image-wrapper {
+        width: 200px;
+        height: 200px;
+    }
+}

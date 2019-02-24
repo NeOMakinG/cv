@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 import './home.scss';
 
 const IndexPage = () => (
-  <Layout>
+  <Layout hideMenu={true}>
     <SEO title="Accueil" keywords={[`gatsby`, `application`, `react`]} />
 
     <h2>

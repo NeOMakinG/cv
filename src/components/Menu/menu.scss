@@ -1,0 +1,29 @@
+nav {
+    margin: 0 -1rem;
+    
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        margin: 0;
+        
+        li {
+            list-style-type: none;
+            margin: 0;
+        }
+
+        a {
+            padding: .5rem 1rem;
+            color: white;
+            font-size: 18px;
+            transition: .4s ease-out;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+}

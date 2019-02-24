@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Cognix Systems (contrat de professionnalisation)",
+        "dateBegin": "Jully 1, 2016 23:15:30",
+        "dateEnd": "Novembre 1, 2019 23:15:30",
+        "shortDescription": "R&D, Intégration, Développement front-end (Vue.js, AdonisJS), Développement CLI...",
+        "content": "Lorem ipsum sit dolor amet"
+    },
+    {
+        "title": "LastOne (Association)",
+        "dateBegin": "June 20, 2016 23:15:30",
+        "dateEnd": "",
+        "shortDescription": "lastone.fr (React + Strapi + Apollo, CI/CD, SSR), multiples Wordpress, starter Wordpress",
+        "content": "Lorem ipsum sit dolor amet"
+    },
+    {
+        "title": "Auto-entreprenariat",
+        "dateBegin": "May 21, 2017 12:00:00",
+        "dateEnd": "",
+        "shortDescription": "Sites vitrines, missions JavaScript",
+        "content": "Lorem ipsum sit dolor amet"
+    },
+    {
+        "title": "WebexpR (contrat d'apprentissage)",
+        "dateBegin": "August 1, 2014 23:15:30",
+        "dateEnd": "June 1, 2016 23:15:30",
+        "shortDescription": "Intégration, Wordpress, Réseau, Développement spécifique (PHP/JS)",
+        "content": "Lorem ipsum sit dolor amet"
+    }
+]

@@ -1,0 +1,45 @@
+@import '../_conf';
+
+.etudes {
+    position: relative;
+    padding-left: 1.2rem!important;
+    margin: 0!important;
+
+    &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: .6rem;
+        height: 100%;
+        background: darken(white, 5%);
+    }
+
+    &-item {
+        list-style-type: none;
+        margin-bottom: 30px;
+    }
+
+    &-title {
+        position: relative;
+        margin-bottom: 10px;
+
+        &::before {
+            content: "";
+            top: 50%;
+            left: -18px;
+            transform: translateY(-50%);
+            height: 0.3rem;
+            width: 0.3rem;
+            background: lighten(black, 10%);
+            position: absolute;
+            border-radius: 50%;
+        }
+    }
+
+    &-link {
+        color: $color1;
+        text-align: center;
+        display: block;
+    }
+}
