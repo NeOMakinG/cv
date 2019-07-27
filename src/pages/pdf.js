@@ -13,7 +13,7 @@ const IndexPage = () => (
     <div className="home-content">
       <Etudes />
       <Experiences />
-      
+
     </div>
     <Competences />
   </Layout>

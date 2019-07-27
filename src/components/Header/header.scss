@@ -5,6 +5,10 @@ header {
     background: lighten(black, 10%);
     text-align: right;
 
+    h1 {
+        font-size: 30px;
+    }
+
     .socialIcons {
         margin: 0 -13px;
 
@@ -32,7 +36,7 @@ header {
     }
 
     > div:first-child {
-        min-height: 20vh;
+        min-height: 15vh;
         display: flex;
         align-items: flex-start;
         justify-content: space-between;
