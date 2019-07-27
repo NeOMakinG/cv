@@ -4,7 +4,7 @@ import './competences.scss';
 
 const cpName = "competences";
 
-const Competences = ({data}) => (
+const Competences = ({ data }) => (
     <React.Fragment>
         <h2>
             Compétences
@@ -17,7 +17,7 @@ const Competences = ({data}) => (
                 </p>
 
                 <p className={cpName + "-value"}>
-                    JavaScript, React, Node, HTML, CSS, GraphQL, CI/CD
+                    JavaScript, React, Node, HTML, CSS, GraphQL, CI/CD, Git
                 </p>
             </li>
 
