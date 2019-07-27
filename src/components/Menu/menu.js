@@ -21,10 +21,6 @@ const Menu = () => (
             <li>
                 <a href="http://book.szczupak.fr/" target="_blank">TPE BTS</a>
             </li>
-
-            <li>
-                <a href="http://blog.szczupak.fr/" target="_blank">Blog</a>
-            </li>
         </ul>
     </nav>
 )

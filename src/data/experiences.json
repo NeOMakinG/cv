@@ -1,9 +1,16 @@
 [
     {
+        "title": "Splizi (CTO)",
+        "dateBegin": "May 1, 2019 23:15:30",
+        "dateEnd": "",
+        "shortDescription": "R&D, React Native (Geoloc), Redux, Prisma, GraphQL, Apollo, TypeScript, architecture microservice, entreprenariat...",
+        "content": "Lorem ipsum sit dolor amet"
+    },
+    {
         "title": "Cognix Systems (contrat de professionnalisation)",
-        "dateBegin": "Jully 1, 2016 23:15:30",
-        "dateEnd": "Novembre 1, 2019 23:15:30",
-        "shortDescription": "R&D, Intégration, Développement front-end (Vue.js, AdonisJS), Développement CLI...",
+        "dateBegin": "July 1, 2016 12:00:00",
+        "dateEnd": "",
+        "shortDescription": "R&D, Intégration, Développement front-end (Vue.JS, AdonisJS, Electron, React, Ionic 3), Développement d'un CLI",
         "content": "Lorem ipsum sit dolor amet"
     },
     {
@@ -17,14 +24,14 @@
         "title": "Auto-entreprenariat",
         "dateBegin": "May 21, 2017 12:00:00",
         "dateEnd": "",
-        "shortDescription": "Sites vitrines, missions JavaScript",
+        "shortDescription": "Sites vitrines, missions JavaScript (Vue.JS, React)",
         "content": "Lorem ipsum sit dolor amet"
     },
     {
         "title": "WebexpR (contrat d'apprentissage)",
         "dateBegin": "August 1, 2014 23:15:30",
         "dateEnd": "June 1, 2016 23:15:30",
-        "shortDescription": "Intégration, Wordpress, Réseau, Développement spécifique (PHP/JS)",
+        "shortDescription": "Intégration, Wordpress, Réseau, Développement spécifique (PHP/JS), Ionic 1, AngularJS, Prestashop (Interfaçage avec API d'un grossiste et intégration)",
         "content": "Lorem ipsum sit dolor amet"
     }
 ]
